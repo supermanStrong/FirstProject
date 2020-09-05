@@ -50,7 +50,7 @@ This YAML representation in Rollout's dashboard:
 ![dashboard](https://files.readme.io/00b37e6-Screen_Shot_2018-12-03_at_11.47.56.png)
 ### 50% split
 ```yaml
-flag: default.followingView
+flag: default.Newstring
 type: experiment
 name: following view
 value:
@@ -79,7 +79,7 @@ This YAML representation in Rollout's dashboard:
 ![dashboard](https://files.readme.io/6884476-Screen_Shot_2018-12-03_at_12.04.13.png)
 ### Open feature for all platform beside Android
 ```yaml
-flag: default.followingView
+flag: default.
 type: experiment
 name: following view
 platforms:
