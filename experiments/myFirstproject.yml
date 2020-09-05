@@ -1,0 +1,6 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+name: my firstproject
+description: StringGoo
+flag: myFirstproject
+value: false

@@ -1,0 +1,8 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: Newstring
+availableValues:
+  - GooStringForm
+  - SixGo
+  - liChatDetistring
+value: GooStringForm

@@ -1,0 +1,6 @@
+type: target-group
+name: test
+description: test
+conditions:
+  - operator: is-undefined
+    property: Stronger
