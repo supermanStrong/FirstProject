@@ -2,6 +2,6 @@
 type: experiment
 flag: FutrueHotString
 availableValues:
-  - 'https://gitee.com/cunzhangWanggoudan/new-none/raw/master/README.md'
   - FutrueHot
-value: 'https://gitee.com/cunzhangWanggoudan/new-none/raw/master/README.md'
+  - 'https://gitee.com/cunzhangWanggoudan/new-none/raw/master/README.md'
+value: FutrueHot
