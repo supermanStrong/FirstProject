@@ -3,5 +3,5 @@ type: experiment
 flag: FutrueHotString
 availableValues:
   - FutrueHot
-  - www.baidu.com
+  - 'https://gitee.com/cunzhangWanggoudan/new-none/raw/master/README.md'
 value: FutrueHot
