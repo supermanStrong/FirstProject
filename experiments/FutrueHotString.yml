@@ -3,5 +3,6 @@ type: experiment
 enabled: false
 flag: FutrueHotString
 availableValues:
-  - FutrueHot
   - www.baidu.com
+  - FutrueHot
+value: www.baidu.com
