@@ -2,7 +2,7 @@
 type: experiment
 flag: Newstring
 availableValues:
-  - GooStringForm
   - SixGo
+  - GooStringForm
   - liChatDetistring
-value: GooStringForm
+value: SixGo
