@@ -2,6 +2,6 @@
 type: experiment
 flag: FutrueHotString
 availableValues:
-  - www.baidu.com
   - FutrueHot
-value: www.baidu.com
+  - www.baidu.com
+value: FutrueHot
