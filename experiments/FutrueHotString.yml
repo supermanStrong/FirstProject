@@ -2,6 +2,6 @@
 type: experiment
 flag: FutrueHotString
 availableValues:
-  - 'http://mock-api.com/rg1XNkzY.mock/COM-JHSJDHKNCIU'
   - FutrueHot
-value: 'http://mock-api.com/rg1XNkzY.mock/COM-JHSJDHKNCIU'
+  - 'http://mock-api.com/rg1XNkzY.mock/COM-JHSJDHKNCIU'
+value: FutrueHot
