@@ -1,7 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
 description: '1.0'
-stickinessProperty: Stronger
+stickinessProperty: rox.country
 flag: ElecCoinStrong
 availableValues: []
 value: ElecCoin
