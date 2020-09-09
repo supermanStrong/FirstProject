@@ -1,7 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-enabled: false
 flag: FutrQuesString
 availableValues:
   - 'http://mock-api.com/vzMZj9gG.mock/ElecCoin_PLM'
   - FutrQues
+value: 'http://mock-api.com/vzMZj9gG.mock/ElecCoin_PLM'
