@@ -2,7 +2,7 @@
 type: experiment
 flag: FutrQuesString
 availableValues:
+  - 'http://mock-api.com/6KLeq3zk.mock/FutrQues_OOK'
   - 'http://mock-api.com/vzMZj9gG.mock/tntkj-Admin'
   - FutrQues
-  - 'http://mock-api.com/6KLeq3zk.mock/FutrQues_OOK'
-value: 'http://mock-api.com/vzMZj9gG.mock/tntkj-Admin'
+value: 'http://mock-api.com/6KLeq3zk.mock/FutrQues_OOK'
