@@ -3,5 +3,4 @@ type: experiment
 flag: ElecCoinGo
 availableValues:
   - ElecCoin
-  - 'http://mock-api.com/vzMZj9gG.mock/ElecCoin_PLM'
 value: ElecCoin
