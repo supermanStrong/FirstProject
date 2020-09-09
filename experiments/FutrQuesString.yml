@@ -3,6 +3,4 @@ type: experiment
 flag: FutrQuesString
 availableValues:
   - FutrQues
-  - 'http://mock-api.com/6KLeq3zk.mock/FutrQues_OOK'
-  - 'http://mock-api.com/vzMZj9gG.mock/tntkj-Admin'
 value: FutrQues
