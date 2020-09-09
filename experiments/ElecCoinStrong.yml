@@ -1,4 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-flag: ElecCoinString
+enabled: false
+flag: ElecCoinStrong
 availableValues: []
+value: ElecCoin
