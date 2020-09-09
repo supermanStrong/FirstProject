@@ -1,7 +1,0 @@
-# This file was edited by Cloudbees Feature Flags
-type: experiment
-name: futrue hot
-flag: FutrueHot
-conditions:
-  - value: false
-value: false
