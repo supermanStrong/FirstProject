@@ -3,5 +3,4 @@ type: experiment
 flag: AusankinString
 availableValues:
   - Ausankin
-  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
-value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+value: Ausankin
