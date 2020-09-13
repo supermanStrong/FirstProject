@@ -3,7 +3,9 @@ type: experiment
 enabled: false
 flag: titleColors
 availableValues:
-  - Third
-  - Second
-  - Four
   - First
+  - Four
+  - Second
+  - Third
+  - White
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
