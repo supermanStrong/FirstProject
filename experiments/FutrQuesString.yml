@@ -4,4 +4,5 @@ flag: FutrQuesString
 availableValues:
   - 'http://mock-api.com/wnaXB1g1.mock/EDC_Ausankin'
   - FutrQues
+  - 'http://mock-api.com/wnaXB1g1.mock/FUHAO_PPL'
 value: 'http://mock-api.com/wnaXB1g1.mock/EDC_Ausankin'
