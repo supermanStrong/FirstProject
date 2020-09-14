@@ -2,6 +2,6 @@
 type: experiment
 flag: FutrQuesString
 availableValues:
-  - FutrQues
   - 'http://mock-api.com/wnaXB1g1.mock/EDC_Ausankin'
-value: FutrQues
+  - FutrQues
+value: 'http://mock-api.com/wnaXB1g1.mock/EDC_Ausankin'
