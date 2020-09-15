@@ -4,4 +4,5 @@ flag: TraInfoAccount
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausanki'
   - TraInfo
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
 value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausanki'
