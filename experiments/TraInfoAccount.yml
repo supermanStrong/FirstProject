@@ -2,7 +2,7 @@
 type: experiment
 flag: TraInfoAccount
 availableValues:
+  - TraInfo
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausanki'
-  - TraInfo
-value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+value: TraInfo
