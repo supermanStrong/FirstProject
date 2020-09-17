@@ -2,6 +2,6 @@
 type: experiment
 flag: HUOBitcoinString
 availableValues:
-  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - HUOBitcoin
-value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+value: HUOBitcoin
