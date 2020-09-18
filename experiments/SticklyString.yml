@@ -4,4 +4,10 @@ flag: SticklyString
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - Stickly
-value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+conditions:
+  - value:
+      - percentage: 50
+        option: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+      - percentage: 50
+        option: Stickly
+value: Stickly
