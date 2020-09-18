@@ -4,4 +4,4 @@ flag: SticklyString
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - Stickly
-value: Stickly
+value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
