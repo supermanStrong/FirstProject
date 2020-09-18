@@ -2,10 +2,10 @@
 type: experiment
 flag: titleColors
 availableValues:
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - First
   - Four
   - Second
   - Third
   - White
-  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
-value: First
+value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
