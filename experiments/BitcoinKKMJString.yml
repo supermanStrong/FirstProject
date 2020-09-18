@@ -3,5 +3,5 @@ type: experiment
 flag: BitcoinKKMJString
 availableValues:
   - BitcoinKKMJ
-  - 'http://mock-api.com/rg1XNkzY.mock/tntkj-Admin'
+  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
 value: BitcoinKKMJ
