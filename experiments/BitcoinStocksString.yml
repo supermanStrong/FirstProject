@@ -3,5 +3,5 @@ type: experiment
 flag: BitcoinStocksString
 availableValues:
   - BitcoinStocks
-  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
 value: BitcoinStocks
