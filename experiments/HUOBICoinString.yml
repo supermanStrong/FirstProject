@@ -2,5 +2,6 @@
 type: experiment
 flag: HUOBICoinString
 availableValues:
-  - ''
   - HUOBICoin
+  - ''
+value: HUOBICoin
