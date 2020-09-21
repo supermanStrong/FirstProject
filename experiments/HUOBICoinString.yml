@@ -3,4 +3,4 @@ type: experiment
 flag: HUOBICoinString
 availableValues:
   - ''
-value: HUOBICoin
+  - HUOBICoin
