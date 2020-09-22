@@ -2,4 +2,5 @@
 type: experiment
 flag: PreciousMetalsString
 availableValues:
-  - ''
+  - 'http://mock-api.com/mnEbRbKJ.mock/AANH'
+  - PreciousMetals
