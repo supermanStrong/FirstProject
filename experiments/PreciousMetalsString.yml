@@ -4,3 +4,4 @@ flag: PreciousMetalsString
 availableValues:
   - 'http://mock-api.com/mnEbRbKJ.mock/AANH'
   - PreciousMetals
+value: 'http://mock-api.com/mnEbRbKJ.mock/AANH'
