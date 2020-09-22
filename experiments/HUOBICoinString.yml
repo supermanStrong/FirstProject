@@ -2,6 +2,6 @@
 type: experiment
 flag: HUOBICoinString
 availableValues:
-  - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
   - HUOBICoin
-value: 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
+  - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
+value: HUOBICoin
