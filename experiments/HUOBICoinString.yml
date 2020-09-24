@@ -2,7 +2,7 @@
 type: experiment
 flag: HUOBICoinString
 availableValues:
-  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
   - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
+  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
   - HUOBICoin
-value: 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
+value: 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
