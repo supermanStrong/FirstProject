@@ -2,4 +2,6 @@
 type: experiment
 flag: BitcoinPriceString
 availableValues:
+  - BitcoinPrice
   - ''
+value: BitcoinPrice
