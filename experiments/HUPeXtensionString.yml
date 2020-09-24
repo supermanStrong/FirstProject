@@ -1,0 +1,7 @@
+# This file was edited by Cloudbees Feature Flags
+type: experiment
+flag: HUPeXtensionString
+availableValues:
+  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
+  - HUPeXtension
+value: 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
