@@ -2,6 +2,6 @@
 type: experiment
 flag: TFHUPString
 availableValues:
-  - TFHUP
   - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
-value: TFHUP
+  - TFHUP
+value: 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
