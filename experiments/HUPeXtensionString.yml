@@ -2,7 +2,7 @@
 type: experiment
 flag: HUPeXtensionString
 availableValues:
+  - HUPeXtension
   - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
   - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
-  - HUPeXtension
-value: 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
+value: HUPeXtension
