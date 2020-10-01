@@ -4,4 +4,5 @@ flag: TFAFuturesString
 availableValues:
   - TFAFutures
   - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
+  - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
 value: TFAFutures
