@@ -3,5 +3,5 @@ type: experiment
 enabled: false
 flag: OQCoinsContainString
 availableValues:
-  - 'http://mock-api.com/3gldd4gO.mock/'
   - OQCoinsContain
+  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
