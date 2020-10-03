@@ -2,6 +2,6 @@
 type: experiment
 flag: OQBTCFuturesString
 availableValues:
-  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - OQBTCFutures
-value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+value: OQBTCFutures
