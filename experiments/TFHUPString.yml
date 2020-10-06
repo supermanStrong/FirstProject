@@ -2,6 +2,6 @@
 type: experiment
 flag: TFHUPString
 availableValues:
-  - TFHUP
   - 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
-value: TFHUP
+  - TFHUP
+value: 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
