@@ -4,4 +4,5 @@ flag: OQCoinsContainString
 availableValues:
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - OQCoinsContain
+  - 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
 value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
