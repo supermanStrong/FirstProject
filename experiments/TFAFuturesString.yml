@@ -2,7 +2,7 @@
 type: experiment
 flag: TFAFuturesString
 availableValues:
-  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
   - TFAFutures
+  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
   - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
-value: 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
+value: TFAFutures
