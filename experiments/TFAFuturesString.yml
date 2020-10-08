@@ -3,6 +3,6 @@ type: experiment
 flag: TFAFuturesString
 availableValues:
   - TFAFutures
-  - 'http://mock-api.com/bKkp4MzB.mock/BIANOOP'
   - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
+  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
 value: TFAFutures
