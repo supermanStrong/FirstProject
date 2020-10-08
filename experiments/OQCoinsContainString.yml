@@ -2,7 +2,7 @@
 type: experiment
 flag: OQCoinsContainString
 availableValues:
+  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
   - OQCoinsContain
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
-  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
-value: OQCoinsContain
+value: 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
