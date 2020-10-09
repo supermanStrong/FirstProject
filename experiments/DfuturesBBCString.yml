@@ -4,4 +4,5 @@ flag: DfuturesBBCString
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - DfuturesBBC
+  - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'
 value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
