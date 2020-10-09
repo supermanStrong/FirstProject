@@ -2,4 +2,5 @@
 type: experiment
 flag: DfuturesBBCString
 availableValues:
-  - ''
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
+  - DfuturesBBC
