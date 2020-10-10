@@ -2,5 +2,5 @@
 type: experiment
 flag: OCCYourFutString
 availableValues:
-  - rg1XNkzY
   - OCCYourFut
+  - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
