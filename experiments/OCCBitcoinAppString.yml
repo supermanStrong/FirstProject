@@ -2,4 +2,5 @@
 type: experiment
 flag: OCCBitcoinAppString
 availableValues:
-  - ''
+  - 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
+  - OCCBitcoinApp
