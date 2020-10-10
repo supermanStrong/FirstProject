@@ -4,3 +4,5 @@ flag: OCCYourFutString
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
   - OCCYourFut
+  - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
+value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
