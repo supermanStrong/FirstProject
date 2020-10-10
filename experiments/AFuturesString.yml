@@ -4,4 +4,4 @@ flag: AFuturesString
 availableValues:
   - AFutures
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
-value: AFutures
+value: 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
