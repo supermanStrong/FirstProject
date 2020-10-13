@@ -3,7 +3,7 @@ type: experiment
 description: 'Experiment: OCCYourFutString'
 flag: OCCYourFutString
 availableValues:
-  - OCCYourFut
   - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
+  - OCCYourFut
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'
-value: OCCYourFut
+value: 'http://mock-api.com/NnXa9oKy.mock/BitMEX'
