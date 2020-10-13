@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: PreciousMetalsString'
 flag: PreciousMetalsString
 availableValues:
   - 'http://mock-api.com/onwOY0nN.mock/BOYIDASHIPP'

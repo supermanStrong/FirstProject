@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: OQCoinsContainString'
 flag: OQCoinsContainString
 availableValues:
   - 'http://mock-api.com/vzMZj9gG.mock/HUOBI09'

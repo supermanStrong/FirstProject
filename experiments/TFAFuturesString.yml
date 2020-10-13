@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: TFAFuturesString'
 flag: TFAFuturesString
 availableValues:
   - 'http://mock-api.com/NnXa9oKy.mock/BitMEX'

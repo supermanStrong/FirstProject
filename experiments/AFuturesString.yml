@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: AFuturesString'
 flag: AFuturesString
 availableValues:
   - 'http://mock-api.com/rg1XNkzY.mock/EDC_Ausankin'

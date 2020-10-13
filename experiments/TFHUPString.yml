@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: TFHUPString'
 flag: TFHUPString
 availableValues:
   - 'http://mock-api.com/9n6Be5nV.mock/WENHUA'

@@ -1,5 +1,6 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
+description: 'Experiment: FutrQuesString'
 flag: FutrQuesString
 availableValues:
   - FutrQues

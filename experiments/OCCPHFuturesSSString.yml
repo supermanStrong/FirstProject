@@ -4,4 +4,5 @@ flag: OCCPHFuturesSSString
 availableValues:
   - OCCPHFuturesSS
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
 value: OCCPHFuturesSS
