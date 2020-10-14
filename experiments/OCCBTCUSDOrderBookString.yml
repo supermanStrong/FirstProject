@@ -3,3 +3,5 @@ type: experiment
 flag: OCCBTCUSDOrderBookString
 availableValues:
   - ''
+  - OCCBTCUSDOrderBook
+  - 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
