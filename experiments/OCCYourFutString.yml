@@ -3,6 +3,6 @@ type: experiment
 description: 'Experiment: OCCYourFutString'
 flag: OCCYourFutString
 availableValues:
-  - 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
   - OCCYourFut
-value: 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
+  - 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
+value: OCCYourFut
