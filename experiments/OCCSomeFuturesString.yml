@@ -2,7 +2,7 @@
 type: experiment
 flag: OCCSomeFuturesString
 availableValues:
-  - OCCSomeFutures
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - OCCSomeFutures
   - 'http://mock-api.com/9KO61Bnk.mock/Boyidashi1013'
-value: OCCSomeFutures
+value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
