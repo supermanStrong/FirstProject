@@ -4,3 +4,4 @@ flag: MyChartInfoString
 availableValues:
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - MyChartInfo
+value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
