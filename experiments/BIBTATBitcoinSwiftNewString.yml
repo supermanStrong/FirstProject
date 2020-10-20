@@ -3,6 +3,5 @@ type: experiment
 flag: BIBTATBitcoinSwiftNewString
 availableValues:
   - 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
-  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
   - BIBTATBitcoinSwiftNew
 value: 'http://mock-api.com/9n6Be5nV.mock/WENHUA'
