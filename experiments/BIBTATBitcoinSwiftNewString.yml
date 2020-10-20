@@ -2,4 +2,5 @@
 type: experiment
 flag: BIBTATBitcoinSwiftNewString
 availableValues:
-  - ''
+  - 'http://mock-api.com/vzMr8vgG.mock/BOYIDASHI'
+  - BIBTATBitcoinSwiftNew
