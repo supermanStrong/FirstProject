@@ -3,6 +3,6 @@ type: experiment
 enabled: false
 flag: BIBTATBitcoinSwiftNewString
 availableValues:
-  - BIBTATBitcoinSwiftNew
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - BIBTATBitcoinSwiftNew
 value: BIBTATBitcoinSwiftNew
