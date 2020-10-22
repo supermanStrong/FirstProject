@@ -3,5 +3,4 @@ type: experiment
 flag: BIBTATCryptfolioString
 availableValues:
   - BIBTATCryptfolio
-  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
 value: BIBTATCryptfolio
