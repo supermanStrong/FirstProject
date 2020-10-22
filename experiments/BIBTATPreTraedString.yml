@@ -2,6 +2,6 @@
 type: experiment
 flag: BIBTATPreTraedString
 availableValues:
-  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - BIBTATPreTraed
-value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+value: BIBTATPreTraed
