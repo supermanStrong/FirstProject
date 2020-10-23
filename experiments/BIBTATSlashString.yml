@@ -2,6 +2,6 @@
 type: experiment
 flag: BIBTATSlashString
 availableValues:
-  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - OccSlashSt
-value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+  - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
+value: OccSlashSt
