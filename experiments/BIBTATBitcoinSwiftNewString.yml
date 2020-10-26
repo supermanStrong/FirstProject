@@ -2,6 +2,6 @@
 type: experiment
 flag: BIBTATBitcoinSwiftNewString
 availableValues:
-  - BIBTATBitcoinSwiftNew
   - 'http://mock-api.com/3glpwagO.mock/BOyidashi1026'
-value: BIBTATBitcoinSwiftNew
+  - BIBTATBitcoinSwiftNew
+value: 'http://mock-api.com/3glpwagO.mock/BOyidashi1026'
