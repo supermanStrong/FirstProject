@@ -1,7 +1,7 @@
 # This file was edited by Cloudbees Feature Flags
 type: experiment
-enabled: false
 flag: MNMarketTrendString
 availableValues:
   - 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
   - MNMarketTrend
+value: 'http://mock-api.com/3gldd4gO.mock/tntkj-Admin'
